@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import axios from 'axios'
+import axios from 'axios';
 
 import Home from './Home';
 
-import LoginTest from './TestFiles/LoginTest'
+import LoginTest from './TestFiles/LoginTest';
 
 class App extends Component {
   constructor(props){
